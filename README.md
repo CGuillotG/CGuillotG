@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![snake gif](https://github.com/CGuillotG/CGuillotG/blob/output/github-contribution-grid-snake.gif)
-
 <!--
 **CGuillotG/CGuillotG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
