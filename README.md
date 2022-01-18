@@ -17,7 +17,7 @@
 
 
 ### Glad to see you here!  
-I'm a Full-Stack Web Developer with 6+ years of experience developing applications using Javascript, React, Node.js, Express.js, MongoDB, to name a few.  
+I'm a Full-Stack Web Developer with 7+ years of experience developing applications using Javascript, React, Node.js, Express.js, MongoDB, to name a few.  
   
 
 <br/>  
