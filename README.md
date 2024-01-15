@@ -17,14 +17,10 @@
 
 
 ### Glad to see you here!  
-I'm a Full-Stack Web Developer with 7+ years of experience developing applications using Javascript, React, Node.js, Express.js, MongoDB, to name a few.  
+I'm a Full-Stack Web Developer with 8+ years of experience developing applications using Javascript, React, Node.js, Express.js, MongoDB, to name a few.  
   
 
-<br/>  
 
-<div align="center">
-<img src="https://github.com/CGuillotG/CGuillotG/blob/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
-</div>  
   
 <br/>  
 <br/>  
